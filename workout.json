@@ -1,0 +1,54 @@
+[
+
+  {
+    "name": "Bench Press",
+    "type": "PUSH",
+    "group" : "CHEST",
+    "rank" : null
+  }, {
+    "name": "Fly",
+    "type": "PUSH",
+    "group" : "CHEST",
+    "rank" : null
+  }, {
+    "name": "Dumnbell Bench",
+    "type": "PUSH",
+    "group" : "CHEST",
+    "rank" : null
+  }, {
+    "name": "Dips",
+    "type": "PUSH",
+    "group" : "TRICEPTS",
+    "rank" : null
+  }, {
+    "name": "Incline Bench",
+    "type": "PUSH",
+    "group" : "CHEST",
+    "rank" : null
+  }, {
+    "name": "Military Press",
+    "type": "PUSH",
+    "group" : "SHOULDER",
+    "rank" : null
+  }, {
+    "name": "Reverse Fly",
+    "type": "PUSH",
+    "group" : "SHOULDER",
+    "rank" : null
+  }, {
+    "name": "Overhead Press",
+    "type": "PUSH",
+    "group" : "SHOULDER",
+    "rank" : null
+  }, {
+    "name": "Cable Extensions",
+    "type": "PUSH",
+    "group" : "TRICEPTS",
+    "rank" : null
+  }, {
+  "name": "Overhead Extension",
+  "type": "PUSH",
+  "group" : "",
+  "rank" : null
+}
+]
