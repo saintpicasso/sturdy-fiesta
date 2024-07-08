@@ -11,11 +11,11 @@ router.get('/push', function(req, res, next) {
 });
 
 router.get('/pull', function(req, res, next) {
-  res.render('index', { title: 'Pull' });
+  res.render('pull', { title: 'Pull' });
 });
 
 router.get('/leg', function(req, res, next) {
-  res.render('index', { title: 'Leg' });
+  res.render('leg', { title: 'Leg' });
 });
 
 module.exports = router;

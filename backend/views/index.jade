@@ -2,7 +2,14 @@ extends layout
 
 block content
   h1= title
-  p Welcome3 to #{title}
+  p Select #{title}
+  div
+    a(href="/push") PUSH
+  div
+    a(href="/pull") PULL
+  div
+    a(href="/leg") LEG
+
 
 //doctype html
 //html(lang='en')
